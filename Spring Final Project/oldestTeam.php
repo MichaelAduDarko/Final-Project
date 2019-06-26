@@ -89,7 +89,7 @@
             position: fixed;
             left: 0;
             bottom: 0;
-            width: 100%;
+            width: 100%; 
             background-color: rgba(198, 176, 146, 0.56);
             color: #4e37af;
             text-align: center;
